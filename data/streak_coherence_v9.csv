@@ -1,0 +1,41 @@
+streak,n,F25,R25,candidate,pairs,pair_frac,null_frac,incoh_frac,slope_pct_per_C,shared,shared_applies,n_shared_pairs,season_max_pct,n_split,splits,verdict,position
+5501,4213,5152.803,38.495,Anaxipha thomasi,11948,0.207,0.017,0.190,6.190,0.689,True,68494,33.431,1,across,one song form,sub-structure
+4701,2080,7014.529,22.305,,6144,0.313,0.019,0.294,3.750,0.412,True,27951,38.215,1,across,one song form,sub-structure
+4601,1908,6204.748,20.010,,4913,0.432,0.023,0.409,3.437,0.471,True,25399,13.633,0,,one song form,sub-structure
+3601,1834,3476.907,34.634,,2871,0.144,0.023,0.122,4.632,0.610,True,26036,63.676,1,across,one song form,single population
+4301,1655,2593.064,40.537,Oecanthus latipennis,2316,0.263,0.035,0.228,7.057,0.789,True,26009,36.251,0,,one song form,sub-structure
+5901,826,8553.478,58.250,Eunemobius confusus,2210,0.091,0.011,0.080,2.144,0.378,True,5952,7.893,1,across,one song form,single population
+5201,630,4049.779,30.001,Anaxipha thomasi,1024,0.236,0.016,0.220,3.553,0.707,True,7155,9.413,0,,one song form,sub-structure
+4801,623,7466.327,22.249,Neonemobius palustris,751,0.240,0.023,0.216,4.516,0.460,True,4554,2.755,1,across,one song form,sub-structure
+4901,391,7779.482,20.073,Allonemobius fultoni,309,0.285,0.030,0.255,4.497,0.340,True,2081,3.359,0,,one song form,sub-structure
+5802,375,7656.353,54.898,,396,0.083,0.008,0.075,2.724,0.311,True,1587,6.135,0,,one song form,single population
+3301,374,5342.068,69.258,Gryllus rubens,150,0.433,0.013,0.420,3.727,0.373,True,1512,21.811,0,,one song form,sub-structure
+590118,300,7834.437,49.630,,330,0.100,0.012,0.088,2.444,0.270,True,857,9.423,0,,one song form,sub-structure
+590117,273,6953.887,38.375,,297,0.081,0.008,0.073,3.613,0.412,True,1410,12.460,0,,one song form,single population
+360124,231,3940.542,40.064,,155,0.116,0.008,0.108,1.751,0.407,True,1386,7.344,0,,one song form,single population
+3151,177,3497.674,46.789,,346,0.150,0.015,0.135,2.983,0.060,True,184,7.681,1,chirp_share,mixed song forms,sub-structure
+31013,167,3939.544,58.262,,138,0.036,0.013,0.023,3.505,0.864,True,501,7.029,0,,one song form,single population
+3701,166,4303.989,57.909,,56,0.357,0.007,0.350,2.341,0.612,True,351,16.008,0,,one song form,sub-structure
+4501,144,2887.213,62.995,Neoscapteriscus borellii,33,0.121,0.004,0.118,4.852,0.924,True,289,14.103,0,,one song form,single population
+3751,144,3733.015,46.299,,431,0.190,0.007,0.183,1.880,0.107,True,118,0.130,1,chirp_share,mixed song forms,sub-structure
+5401,143,6004.645,43.126,,48,0.104,0.002,0.102,1.898,0.381,True,1042,10.282,0,,one song form,single population
+5751,142,8096.526,85.262,Neoconocephalus bivocatus,162,0.086,0.044,0.043,4.398,0.233,True,361,13.300,0,,one song form,sub-structure
+4001,132,2209.012,56.444,Gryllus rubens,20,,0.000,,6.638,0.375,True,285,13.487,0,,one song form,too few pairs
+54012,128,6960.312,51.455,,86,0.209,0.006,0.204,3.434,0.430,True,243,22.698,0,,one song form,sub-structure
+5801,124,6539.031,39.069,Neonemobius cubensis,57,0.035,0.017,0.019,3.521,0.240,True,71,16.154,0,,one song form,sub-structure
+34013,124,4342.061,43.262,,32,0.031,0.011,0.020,3.612,0.461,True,189,14.461,0,,one song form,single population
+6301,117,5661.591,19.890,Bucrates malivolans,45,0.467,0.021,0.446,1.851,0.245,True,342,5.092,2,"across,duration",one song form,sub-structure
+5301,117,5292.667,53.949,Anaxipha thomasi,5,,0.014,,5.433,0.109,True,121,18.252,0,,one song form,too few pairs
+36015,114,4826.466,64.932,,11,,0.009,,1.197,0.561,True,203,6.874,0,,one song form,too few pairs
+45011,109,2378.664,45.321,,32,0.125,0.012,0.113,4.443,0.478,True,491,6.931,0,,one song form,single population
+3201,106,3221.709,47.190,,112,0.018,0.037,-0.019,5.150,0.763,True,509,2.269,1,coupling,one song form,single population
+3402,105,6208.347,80.544,,35,0.343,0.002,0.340,3.126,0.298,True,151,7.318,0,,one song form,sub-structure
+31011,90,3411.044,43.631,,21,,0.011,,2.122,0.902,True,208,3.467,0,,one song form,too few pairs
+360123,76,2739.724,22.326,,55,0.055,0.012,0.043,0.900,0.849,False,666,16.932,0,,one song form,single population
+5101,69,8948.627,20.975,,18,,0.026,,2.913,0.694,True,95,4.156,0,,one song form,too few pairs
+6102,64,9461.337,58.469,,24,,0.044,,1.949,0.441,True,64,0.828,0,,one song form,too few pairs
+34014,62,4997.294,55.326,,9,,0.004,,2.172,0.223,True,43,5.506,0,,one song form,too few pairs
+6001,61,6375.330,28.689,Neonemobius cubensis,27,,0.008,,2.528,0.626,True,65,20.127,0,,one song form,too few pairs
+590116,54,5857.850,28.197,,17,,0.011,,3.186,,True,20,18.621,0,,one song form,too few pairs
+31014,44,4228.359,61.708,,7,,0.005,,2.755,-0.056,True,57,16.522,0,,one song form,too few pairs
+360125,42,3948.697,38.999,,1,,0.040,,3.654,0.842,True,59,4.658,0,,one song form,too few pairs

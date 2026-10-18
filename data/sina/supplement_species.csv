@@ -1,0 +1,15 @@
+page,name,subfamily,group,source,rate25,rate_lo,rate_hi,kHz,pattern,note
+489a.htm,Gryllus pennsylvanicus | fall field cricket,gryllinae,cricket,SINA quoting Weissman & Gray 2019,25,20,30,4.7,chirp 4-5 pulses,"song indistinguishable from G. veletis: pulse rate 20-30 at 25C"
+484a.htm,Gryllus fultoni | southern wood cricket,gryllinae,cricket,SINA quoting Weissman & Gray 2019,45,35,55,4.5,chirp 3 pulses 250-360/min,
+470a.htm,Gryllus vernalis | northern wood cricket,gryllinae,cricket,SINA quoting Weissman & Gray 2019,27.5,24,31,4.7,chirp 3 pulses 135-250/min,
+479a.htm,Gryllus texensis | Southeast fast trilling field cricket,gryllinae,cricket,SINA quoting Weissman & Gray 2019,75,70,80,4.8,trill,
+482a.htm,Gryllus rubens | southeastern field cricket,gryllinae,cricket,literature approx (Walker),55,48,62,4.8,trill smooth or stuttery,"rate not stated on SINA page; ~50-60 at 25C from Walker's rubens/texensis work"
+481a.htm,Gryllus firmus | sand field cricket,gryllinae,cricket,SINA quoting Weissman & Gray 2019,13,10,15,3.6,chirp 2-3/s 4 pulses,
+616a.htm,Anaxipha exigua | Say's trig,trigonidiinae,cricket,Walker & Funk 2014 (JOR 23:1),44,40,48,7.2,continuous trill,"range Great Plains to Atlantic"
+630a.htm,Anaxipha thomasi | Thomas's trig,trigonidiinae,cricket,Walker & Funk 2014 (JOR 23:1),21,19,23,7.8,continuous trill,"known from OH PA GA under conifers; range poorly known"
+617a.htm,Anaxipha tinnulacita | fast-tinkling trig,trigonidiinae,cricket,Walker & Funk 2014 (JOR 23:1),13,11,15,6.8,tinkle,"PA MD GA FL MS"
+615a.htm,Anaxipha tinnulenta | slow-tinkling trig,trigonidiinae,cricket,Walker & Funk 2014 (JOR 23:1),5.1,4,6,6.5,slow tinkle,"PA MD"
+611a.htm,Anaxipha rosamacula | pink-spotted trig,trigonidiinae,cricket,Walker & Funk 2014 (JOR 23:1),66,60,72,6.3,irregular broken trill,"FL LA GA"
+632a.htm,Anaxipha vernalis | spring trig,trigonidiinae,cricket,Walker & Funk 2014 (JOR 23:1),45,40,50,5.6,continuous trill,"PA MD early season"
+618a.htm,Anaxipha delicatula | chirping trig,trigonidiinae,cricket,Walker & Funk 2014 (JOR 23:1),79,70,88,5.7,regular chirps,"FL coastal Atlantic"
+641a.htm,Phyllopalpus pulchellus | handsome trig,trigonidiinae,cricket,literature (O Brien & Craves; SINA kHz),70,60,75,7.3,trill with pulsating sections,"pulse rate to ~70/s in pulsating sections"

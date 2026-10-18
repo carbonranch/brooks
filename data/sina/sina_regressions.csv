@@ -1,0 +1,62 @@
+species_no,page,file,sheet,rate_col,n,rate25,rate_slope_pctC,T_lo,T_hi,name,subfamily,kHz_prose,kHz25,kHz_slope_pctC,n_kHz
+199,199a.htm,199gd.xls,199-data,P/S avg,130,109.875,1.491,0.000,36.200,,,,,,
+237,237a.htm,237gd.xls,data,P/S,48,17.969,4.771,20.300,30.300,,,,,,
+285,285a.htm,288gd.xls,data and chart,average,32,19.803,6.920,17.800,29.800,,,,,,
+290,290a.htm,287gd.xls,data and chart,pr per sec,6,22.702,4.762,20.000,25.400,,,,,,
+578,578a.htm,577lsc13supmat.xls,data,P/S,5,48.048,,20.000,22.100,,,,3.180,,5.000
+578,578a.htm,586gd.xls,data,P/S,5,48.048,,20.000,22.100,,,,3.180,,5.000
+181,181a.htm,181gd.xls,data,P/S av,29,49.886,4.586,19.000,35.200,Bucrates malivolans | cattail conehead,copiphorini,10.000,,,
+185,185a.htm,185gd.xls,data,P/S,37,11.313,2.139,20.800,27.000,Neoconocephalus affinis | rattler conehead,copiphorini,11.000,,,
+186,186a.htm,186gd.xls,data,P/S,14,245.090,10.806,18.800,27.000,Neoconocephalus palustris | marsh conehead,copiphorini,10.000,,,
+187,187a.htm,187gd.xls,data,P/S,27,138.542,0.625,0.000,30.500,Neoconocephalus melanorhinus | black-nosed conehead,copiphorini,9.000,,,
+188,188a.htm,188gd.xls,data,P/S,10,147.757,-0.315,20.200,23.600,Neoconocephalus pahayokee | Everglades conehead,copiphorini,10.000,,,
+189,189a.htm,189gd.xls,data,P/S,52,80.603,1.229,0.000,34.400,Neoconocephalus bivocatus | false robust conehead,copiphorini,9.000,,,
+191,191a.htm,199gd.xls,199-data,P/S avg,22,114.110,9.001,18.800,25.000,Neoconocephalus triops | broad-tipped conehead,copiphorini,11.000,,,
+191,191a.htm,199gd.xls,191-data,P/S avg,54,88.510,4.294,17.000,28.200,Neoconocephalus triops | broad-tipped conehead,copiphorini,11.000,,,
+192,192a.htm,192gd.xls,data,P/S,13,205.130,5.428,21.500,28.000,Neoconocephalus caudellianus | Caudell's conehead,copiphorini,8.000,,,
+193,193a.htm,193gd.xls,data,P/S1,39,167.597,2.563,0.000,31.600,Neoconocephalus retusus | round-tipped conehead,copiphorini,14.000,,,
+194,194a.htm,194gd.xls,data,P/S avg,55,12.539,3.027,0.000,37.778,Neoconocephalus ensiger | sword-bearing conehead,copiphorini,,,,
+195,195a.htm,195gd.xls,data,P/S,73,194.253,1.294,0.000,31.300,Neoconocephalus robustus | robust conehead,copiphorini,7.000,,,
+196,196a.htm,196gd.xls,data,ws/s avg,42,188.697,1.356,0.000,38.333,Neoconocephalus nebrascensis | Nebraska conehead,copiphorini,9.000,,,
+197,197a.htm,197gd.xls,data,P/S,52,76.447,2.229,0.000,33.889,Neoconocephalus exiliscanorus | slightly musical conehead,copiphorini,11.000,,,
+198,198a.htm,198gd.xls,data,P/S,20,183.155,3.057,19.000,29.900,Neoconocephalus velox | swift conehead,copiphorini,9.000,,,
+201,201a.htm,201gd.xls,data,P/S,12,50.555,2.658,18.000,28.100,Pyrgocorypha uncinata | hook-faced conehead,copiphorini,12.000,,,
+207,207a.htm,207gd.xls,data,P/S,31,137.477,5.476,17.300,27.000,Neoconocephalus maxillosus | Caribbean conehead,copiphorini,11.000,,,
+551,551a.htm,551gd.xls,data,P/S,12,49.326,1.128,20.200,27.000,Velarifictorus micado | Japanese burrowing cricket,gryllidae,3.600,,,
+523,523a.htm,523gd.xls,data,P/S AVG,6,32.840,3.919,22.800,27.800,Allonemobius griseus | gray ground cricket,nemobiinae,8.300,,,
+524,524a.htm,524gd.xls,data,P/S Avg,7,43.101,,25.200,26.700,Neonemobius palustris | sphagnum ground cricket,nemobiinae,8.600,,,
+529,529a.htm,529gd.xls,data,P/S,23,26.460,3.431,20.200,29.600,Allonemobius walkeri | Walker's ground cricket,nemobiinae,7.300,7.708,1.905,22.000
+530,530a.htm,530gd.xls,data,P/S,25,7.870,5.090,17.500,27.800,Allonemobius tinnulus | tinkling ground cricket,nemobiinae,7.700,,,
+532,532a.htm,532gd.xls,data,P/S,62,95.743,4.636,14.800,36.700,Allonemobius socius | southern ground cricket,nemobiinae,8.200,,,
+533,533a.htm,533gd.xls,data,P/S smooth,31,84.550,4.626,14.500,29.200,Eunemobius carolinus | Carolina ground cricket,nemobiinae,6.100,,,
+534,534a.htm,534gd.xls,data,P/S,42,41.406,5.244,15.900,29.000,Eunemobius melodius | melodious ground cricket,nemobiinae,6.400,6.448,2.679,41.000
+536,536a.htm,536gd.xls,data,P/S,14,62.847,4.796,22.800,32.600,Allonemobius sparsalus | salt-marsh ground cricket,nemobiinae,7.000,,,
+537,537a.htm,537gd.xls,data,P/S,34,53.854,2.935,16.100,28.800,Neonemobius cubensis | Cuban ground cricket,nemobiinae,7.100,,,
+538,538a.htm,538gd.xls,data,P/S,26,67.666,3.614,17.500,25.800,Eunemobius confusus | confused ground cricket,nemobiinae,6.900,,,
+539,539a.htm,539gd.xls,data,P/S,19,14.819,2.166,15.000,27.800,Allonemobius allardi | Allard's ground cricket,nemobiinae,7.700,,,
+542,542a.htm,542gd.xls,data,P/S,4,23.274,4.710,20.600,25.200,Allonemobius fultoni | Fulton's ground cricket,nemobiinae,7.500,7.457,3.533,4.000
+577,577a.htm,577gd.xls,data,P/S,28,40.292,5.187,17.300,33.000,Oecanthus texensis | Texas tree cricket,oecanthinae,3.800,3.715,2.839,28.000
+577,577a.htm,577lsc13supmat.xls,data,P/S,28,40.292,5.187,17.300,33.000,Oecanthus texensis | Texas tree cricket,oecanthinae,3.800,3.715,2.839,28.000
+586,586a.htm,577lsc13supmat.xls,data,P/S,11,59.108,7.653,12.500,24.000,Oecanthus californicus | western tree cricket,oecanthinae,3.900,3.702,4.126,11.000
+586,586a.htm,586gd.xls,data,P/S,11,59.108,7.653,12.500,24.000,Oecanthus californicus | western tree cricket,oecanthinae,3.900,3.702,4.126,11.000
+589,589a.htm,589gd.xls,data,P/S,53,53.414,5.680,19.300,29.600,Oecanthus nigricornis | black-horned tree cricket,oecanthinae,4.200,4.041,3.710,53.000
+592,592a.htm,577lsc13supmat.xls,data,P/S,4,45.583,,21.000,23.300,Oecanthus latipennis | broad-winged tree cricket,oecanthinae,2.900,2.872,,5.000
+593,593a.htm,577lsc13supmat.xls,data,P/S,7,76.211,3.706,25.000,28.500,Oecanthus varicornis | different-horned tree cricket,oecanthinae,3.800,3.650,2.569,7.000
+593,593a.htm,593gd.xls,data,P/S,10,73.972,4.151,25.000,28.500,Oecanthus varicornis | different-horned tree cricket,oecanthinae,3.800,3.460,3.003,8.000
+594,594a.htm,594gd.xls,data,P/S,22,68.839,5.621,18.500,25.500,Oecanthus forbesi | Forbes's tree cricket,oecanthinae,3.700,4.086,4.281,21.000
+225,225a.htm,225gd.xls,data,P/S avg,2,23.747,,25.800,28.000,Conocephalus saltans | prairie meadow katydid,tettigoniidae,14.000,,,
+226,226a.htm,226gd.xls,data,P/S,5,34.512,9.433,25.900,30.800,Conocephalus hygrophilus | Gulf meadow katydid,tettigoniidae,20.000,,,
+229,229a.htm,229gd.xls,data,ws/s,1,14.100,,24.300,24.300,Conocephalus nigropleurum | black-sided meadow katydid,tettigoniidae,14.000,,,
+230,230a.htm,230gd.xls,data,P/S,6,29.982,,23.300,26.000,Conocephalus aigialus | seashore meadow katydid,tettigoniidae,14.000,,,
+231,231a.htm,231gd.xls,data,P/S,22,27.446,5.889,21.500,36.000,Conocephalus fasciatus | slender meadow katydid,tettigoniidae,17.000,,,
+232,232a.htm,232gd.xls,data,P/S,6,31.571,7.147,24.500,33.000,Conocephalus cinereus | Caribbean meadow katydid,tettigoniidae,12.000,,,
+233,233a.htm,233gd.xls,data,P/S avg slow,5,18.425,7.017,22.000,37.778,Conocephalus nemoralis | woodland meadow katydid,tettigoniidae,14.000,,,
+234,234a.htm,234gd.xls,data,P/S,15,46.391,6.494,20.500,31.700,Conocephalus brevipennis | short-winged meadow katydid,tettigoniidae,13.000,,,
+236,236a.htm,236gd.xls,data,P/S,44,31.442,5.890,19.500,32.800,Conocephalus nigropleuroides | tidewater meadow katydid,tettigoniidae,10.000,,,
+238,238a.htm,238gd.xls,data,P/S,12,31.577,7.037,22.200,32.800,Conocephalus strictus | straight-lanced meadow katydid,tettigoniidae,9.000,,,
+239,239a.htm,239gd.xls,data,P/S,6,20.402,6.239,19.000,32.300,Conocephalus gracillimus | graceful meadow katydid,tettigoniidae,10.000,,,
+241,241a.htm,241gd.xls,data,P/S,18,37.675,6.209,17.900,31.400,Odontoxiphidium apterum | wingless meadow katydid,tettigoniidae,12.000,,,
+249,249a.htm,249gd.xls,data,P/S,7,56.020,11.655,18.600,22.500,Orchelimum unispina | Arizona meadow katydid,tettigoniidae,14.000,,,
+284,284a.htm,284gd.xls,data and chart,average,17,31.222,5.776,19.500,30.100,Atlanticus americanus | American shieldback,tettigoniinae,15.000,,,
+287,287a.htm,287gd.xls,data and chart,pr per sec,16,24.525,8.374,18.500,27.000,Atlanticus monticola | least shieldback,tettigoniinae,15.000,,,
+288,288a.htm,288gd.xls,data and chart,average,9,16.105,6.973,16.800,30.000,Atlanticus testaceus | protean shieldback,tettigoniinae,13.000,,,
