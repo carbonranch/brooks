@@ -10,7 +10,8 @@ paper's figures, the figures, and the per-type quality-control pages. It is name
 first timed a cricket's song against a thermometer.
 
 The companion package for localizing birds on the same recorder arrays is
-[cardinal](https://github.com/cardinal-acoustics/cardinal).
+[cardinal](https://github.com/carbonranch/cardinal); the field site and the larger project are described at
+[github.com/carbonranch](https://github.com/carbonranch).
 
 ## Contents
 

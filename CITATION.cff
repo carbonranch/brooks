@@ -3,7 +3,7 @@ message: "If you use this software or these data, please cite the paper and this
 title: "BROOKS: Bioacoustic Records of Orthopteran Oscillators, Keyed by Song"
 version: "1.0.0"
 date-released: "2026-10-17"
-repository-code: "https://github.com/cardinal-acoustics/brooks"
+repository-code: "https://github.com/carbonranch/brooks"
 license: MIT
 authors:
   - family-names: Eisen
