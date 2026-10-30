@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software or these data, please cite the paper and this release."
 title: "BROOKS: Bioacoustic Records of Orthopteran Oscillators, Keyed by Song"
-version: "1.0.0"
-date-released: "2026-10-17"
+version: "1.0.1"
+date-released: "2026-10-29"
 repository-code: "https://github.com/carbonranch/brooks"
 license: MIT
 authors:
@@ -12,10 +12,11 @@ authors:
     orcid: "https://orcid.org/0000-0002-7528-738X"
 preferred-citation:
   type: article
-  title: "A comprehensive inventory of discrete insect songs from long-term continuously operating field recorders"
+  title: "A million orthopteran singers from a year of continuously operating field recorders detected, tracked and organized by song"
   authors:
     - family-names: Eisen
       given-names: Michael B.
   year: 2026
-  journal: "bioRxiv (preprint)"
-  notes: "DOI to be added when the preprint is posted."
+  journal: "bioRxiv"
+  doi: "10.64898/2026.10.18.759993"
+  url: "https://doi.org/10.64898/2026.10.18.759993"

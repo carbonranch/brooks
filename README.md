@@ -96,4 +96,5 @@ is in `figures/MANIFEST.md`; `code/regenerate_figures.py` runs them all.
 ## License and citation
 
 Code under the MIT license (`LICENSE`); data, figures and supplement pages under CC BY 4.0 (`LICENSE-DATA.md`). Cite
-the paper and this release (`CITATION.cff`).
+the paper and this release (`CITATION.cff`): Eisen, M. B. (2026). A million orthopteran singers from a year of continuously operating field recorders detected, tracked and organized by song. *bioRxiv* 10.64898/2026.10.18.759993.
+https://doi.org/10.64898/2026.10.18.759993
